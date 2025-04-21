@@ -1,4 +1,4 @@
-# 🎶 Note Mapping Module for Music
+# 🎶 Note Mapping from Audio Clips
 
 This module performs **pitch-to-note mapping** by analyzing an audio clip, estimating its tonic (root note), and identifying other notes in the sequence based on relative frequency ratios.
 
